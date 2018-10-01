@@ -1,0 +1,46 @@
+body{
+    background: #f2f2f2
+}
+
+.frm{
+    width: 50%;
+    margin: 0 auto;
+    background: white;
+    padding: 25px 0;
+}
+
+.frm input[type=text]{
+
+}
+
+
+.row{
+    width: 80%;
+    height:50px;
+    margin:0 auto;
+}
+
+.leftCol{
+    float: left;
+    width: 30%;
+}
+
+.rightCol{
+    width:70%;
+    float:left;
+}
+
+.rightCol input[type=text]{
+    padding: 10px;
+width: 100%;
+border: 1px solid #f2f2f2;
+border-radius: 4px;
+}
+
+.rightCol input[type=password]{
+    padding: 10px;
+width: 100%;
+border: 1px solid #f2f2f2;
+border-radius: 4px;
+
+}
